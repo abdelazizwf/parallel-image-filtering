@@ -1,6 +1,6 @@
 # Parallel Image Filtering
 
-The final project for a university Parallel Programming course.
+Parallel image smoothing or sharpening implemented in C++ using MPI.
 
 ## Usage
 
